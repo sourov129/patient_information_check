@@ -1,0 +1,15 @@
+### GET request to example server
+POST  http://localhost:5000/api/auth/signup
+Content-Type: application/json
+
+{
+  "name": "dgdgdsgsdg",
+  "email": "sha4545fasd434545f@gmail.com",
+  "password": "anggasdas"
+}
+
+
+
+
+
+###

@@ -1,0 +1,6 @@
+### GET request to example server
+GET http://localhost:5000/api/patient/viewpatient
+Content-Type: application/json
+auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjc2MjUxNjYzZGYyNmY0MjQyYTQ2MmU2In0sImlhdCI6MTczNDUxNTI4OX0.Sc76hBQsGJb3aBVdI5a7LCNxIe_iwUanCo1CXCABMCc
+
+###

@@ -1,0 +1,15 @@
+### GET request to example server
+#GET https://examples.http-client.intellij.net/get
+#    ?generated-in=WebStorm
+
+
+###
+
+
+POST  http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "sha4545fasd434545f@gmail.com",
+  "password": "anggasdas"
+}

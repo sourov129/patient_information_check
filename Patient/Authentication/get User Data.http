@@ -1,0 +1,9 @@
+### GET request to example server
+#GET https://examples.http-client.intellij.net/get
+#    ?generated-in=WebStorm
+#
+####
+
+POST http://localhost:5000/api/auth/getuser
+Content-Type: application/json
+auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjc2MjUxNjYzZGYyNmY0MjQyYTQ2MmU2In0sImlhdCI6MTczNDQ5OTI2NH0.Z4g-OpOk51DCOTEn4iTzBCZXi4DnsGYwoE5ZJGqxyp4

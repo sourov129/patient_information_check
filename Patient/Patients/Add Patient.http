@@ -1,0 +1,19 @@
+#### GET request to example server
+#GET https://examples.http-client.intellij.net/get
+#    ?generated-in=WebStorm
+#
+####
+
+POST http://localhost:5000/api/patient/addpatient
+Content-Type: application/json
+auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjc2MjUxNjYzZGYyNmY0MjQyYTQ2MmU2In0sImlhdCI6MTczNDUwNjM4Nn0.joc9FbZ3iI90QdaJrGSAbhAi37zgRWtMZxr0lGHzWA0
+
+
+{
+  "patientName": "Sujon",
+  "dateOfBirth": "2002-12-27",
+  "patientGender": "Male",
+  "patientMobile": "01845124781",
+  "presentAddress": "123, Elm Street",
+  "permanentAddress": "456, Oak Avenue"
+}

@@ -1,0 +1,14 @@
+
+
+PUT http://localhost:5000/api/patient/updatepatient/6763bd865c0bd354f77ff6d1
+Content-Type: application/json
+auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjc2MjUxNjYzZGYyNmY0MjQyYTQ2MmU2In0sImlhdCI6MTczNDUwNzM3MH0.kmZes0yUaK0F2e08hffLhx_6WWXZ3Va8gabibRIhkN8
+
+{
+  "patientName": "halum",
+  "dateOfBirth": "2001-12-27T00:00:00.000Z",
+  "patientGender": "Male",
+  "patientMobile": "01845132578",
+  "presentAddress": "dsf",
+  "permanentAddress": "sdgsag"
+}

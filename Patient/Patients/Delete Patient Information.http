@@ -1,0 +1,6 @@
+
+
+
+DELETE http://localhost:5000/api/patient/deletepatient/6763cad94736915653666e29
+Content-Type: application/json
+auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjc2MjUxNjYzZGYyNmY0MjQyYTQ2MmU2In0sImlhdCI6MTczNDUwNzM3MH0.kmZes0yUaK0F2e08hffLhx_6WWXZ3Va8gabibRIhkN8
